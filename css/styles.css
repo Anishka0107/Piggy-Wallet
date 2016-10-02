@@ -1,0 +1,21 @@
+@font-face{
+    src: url("fonts/Young.ttf");
+}
+@font-face{
+    src: url("fonts/RofiTaste.ttf");
+    
+}
+#texts{
+ -fx-font-family: "Young";    
+    
+}
+#login{
+    -fx-font-family: "Young"; 
+-fx-opacity: 0.7;    
+}
+#login:hover{
+    -fx-opacity:1;
+}
+#head{
+    -fx-font-family: "RofiTaste";
+}
